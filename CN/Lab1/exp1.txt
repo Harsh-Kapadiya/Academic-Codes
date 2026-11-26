@@ -1,0 +1,4 @@
+// ethernet card is called nic card (network interface card)
+// wifi card is also called nic card (network interface card)
+// RJ 45 is the connector type for ethernet cables
+// cat 5, cat 5e, cat 6 are types of ethernet cables
